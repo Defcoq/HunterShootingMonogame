@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SourceFileCollection xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Profile>Reach</Profile>
+  <Platform>Android</Platform>
+  <Config />
+  <SourceFiles>
+    <File>C:/Workspace/dotnet/FruityFallsCocosharp/ShootingGameAndroidNew/Content/arial.spritefont</File>
+    <File>C:/Workspace/dotnet/FruityFallsCocosharp/ShootingGameAndroidNew/Content/background.png</File>
+    <File>C:/Workspace/dotnet/FruityFallsCocosharp/ShootingGameAndroidNew/Content/bird_64x64.png</File>
+    <File>C:/Workspace/dotnet/FruityFallsCocosharp/ShootingGameAndroidNew/Content/bird.png</File>
+    <File>C:/Workspace/dotnet/FruityFallsCocosharp/ShootingGameAndroidNew/Content/birdHit_wav.wav</File>
+    <File>C:/Workspace/dotnet/FruityFallsCocosharp/ShootingGameAndroidNew/Content/birdHit.mp3</File>
+    <File>C:/Workspace/dotnet/FruityFallsCocosharp/ShootingGameAndroidNew/Content/bullet_16x32.png</File>
+    <File>C:/Workspace/dotnet/FruityFallsCocosharp/ShootingGameAndroidNew/Content/bullet.png</File>
+    <File>C:/Workspace/dotnet/FruityFallsCocosharp/ShootingGameAndroidNew/Content/explosion_64x64.png</File>
+    <File>C:/Workspace/dotnet/FruityFallsCocosharp/ShootingGameAndroidNew/Content/explosion.png</File>
+    <File>C:/Workspace/dotnet/FruityFallsCocosharp/ShootingGameAndroidNew/Content/hunter_128x256.png</File>
+    <File>C:/Workspace/dotnet/FruityFallsCocosharp/ShootingGameAndroidNew/Content/hunter.png</File>
+    <File>C:/Workspace/dotnet/FruityFallsCocosharp/ShootingGameAndroidNew/Content/hunterHit_wav.wav</File>
+    <File>C:/Workspace/dotnet/FruityFallsCocosharp/ShootingGameAndroidNew/Content/hunterHit.mp3</File>
+  </SourceFiles>
+  <DestFiles>
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+  </DestFiles>
+</SourceFileCollection>
